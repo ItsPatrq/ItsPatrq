@@ -1,5 +1,5 @@
 ### Hi there 👋
-🌱  I'm working on my [GitHub Page](https://itsmeaga1n.github.io/), so feel free to check it out!
+ 🔭  I'm working on my [GitHub Page](https://itspatrq.github.io/), so feel free to check it out!
 
 <!--
 **ItsMeaga1n/ItsMeaga1n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
